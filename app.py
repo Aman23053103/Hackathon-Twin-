@@ -10,7 +10,7 @@ from collections import defaultdict
 # CONFIGURE GEMINI (Flash)
 # ---------------------------
 # ==== YOUR API KEY ====
-API_KEY = "AIzaSyASJrZ6FgGoSf2YBOo-C1xIvhP8qfib74c"
+API_KEY = "Paste_your_Api_Key"
 # ======================
 genai.configure(api_key=API_KEY)
 MODEL_NAME = "gemini-1.5-flash"
